@@ -1,0 +1,22 @@
+
+{
+  "id": "feature-organizer",
+  "title": "Feature Organizer",
+  "description": "Adds custom organization to the Features tab.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "MestreCelo"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/organizer.css"
+  ]
+}

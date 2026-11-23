@@ -1,0 +1,28 @@
+
+.feature-organizer {
+    margin-bottom: 0.75rem;
+    padding: 0.5rem;
+}
+
+.feature-organizer-filter {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+}
+
+.feature-organizer-toggle {
+    margin-left: 0.5rem;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: var(--color-text-secondary);
+}
+
+.feature-organizer-toggle:hover {
+    color: var(--color-text-primary);
+}
+
+.features-list .is-hidden-feature {
+    opacity: 0.55;
+}
