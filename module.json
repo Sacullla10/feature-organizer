@@ -3,7 +3,7 @@
   "id": "feature-organizer",
   "title": "Feature Organizer",
   "description": "Adds custom organization to the Features tab.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
