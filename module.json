@@ -20,5 +20,5 @@
     "styles/organizer.css"
   ],
   "manifest": "https://raw.githubusercontent.com/Sacullla10/Foudry-Feature-Organizer/main/module.json",
-  "download": "https://github.com/Sacullla10/Foudry-Feature-Organizer/releases/download/v0.1.0/module.zip"
+  "download": "https://github.com/Sacullla10/Foudry-Feature-Organizer/releases/latest/download/module.zip"
 }
